@@ -1,0 +1,6 @@
+﻿  ques1_3.cpp
+  ques1_4.cpp
+  Generating Code...
+ques1_6.obj : error LNK2019: unresolved external symbol "public: __cdecl SixMonthAccount::SixMonthAccount(int,char const *,char const *,char,int,float)" (??0SixMonthAccount@@QEAA@HPEBD0DHM@Z) referenced in function main
+ques1_6.obj : error LNK2019: unresolved external symbol "public: __cdecl TwelveMonthAccount::TwelveMonthAccount(int,char const *,char const *,char,int,float)" (??0TwelveMonthAccount@@QEAA@HPEBD0DHM@Z) referenced in function main
+C:\Users\Mageba\source\repos\221026899_Mnguni_C\x64\Debug\221026899_Mnguni_C.exe : fatal error LNK1120: 2 unresolved externals
